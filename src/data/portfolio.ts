@@ -45,14 +45,14 @@ export const portfolio = {
       institution: 'Islamic Azad University', // Replace with your university name.
       years: '2022 – 2026', // Replace with your actual study years.
       details:
-        'Final-year undergraduate focused on software engineering, backend development, and applied artificial intelligence.',
+        'Passionate final-year undergraduate student focused on applied Artificial Intelligence, Deep Learning,software engineering and Web development in the ranked 2nd university in Iran.',
     },
     {
       degree: 'Diploma of Mathematics ',
-      institution: 'شهید سسلطانی',
-      years: '2019 – ',
+      institution: 'Shahid Soltani Talented Students School (Sampad)',
+      years: '2019 – 2022',
       details:
-        'Final-year undergraduate focused on software engineering, backend development, and applied artificial intelligence.',
+        'Ranked 1st in Iran - Shahid Soltani is among nationwide schools developed to provide education for Iran’s exceptionally talented students and are managed by the National Organization for Development of Exceptional Talents.',
     },
   ] satisfies EducationItem[],
   skills: [

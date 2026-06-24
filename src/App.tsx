@@ -125,9 +125,9 @@ function Hero() {
           </div>
         </div>
         <aside className="relative animate-fade-up rounded-3xl border border-white/10 bg-panel/80 p-8 shadow-glow">
-          <p className="text-sm uppercase tracking-[0.3em] text-gray-500">Academic Focus</p>
+          <p className="text-sm uppercase tracking-[0.3em] text-blue-500">Graduate study interests</p>
           <div className="mt-8 space-y-6">
-            {['Software Development', 'Artificial Intelligence', 'Graduate Study in Canada'].map((item) => (
+            {['Deep Learning', 'Artificial Intelligence', 'Software Engineering'].map((item) => (
               <div key={item} className="rounded-2xl border border-white/10 bg-white/[0.03] p-5">
                 <p className="text-lg font-medium text-white">{item}</p>
               </div>
