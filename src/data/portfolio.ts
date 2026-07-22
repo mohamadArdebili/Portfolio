@@ -28,7 +28,7 @@ export const portfolio = {
   intro:
     'I am a final-year Computer Engineering student and co-founder of DEMORA AI startup, with a strong focus on Computer Vision, Deep Learning, and backend development. I build reliable AI-powered systems and scalable backend architectures, and I am seeking graduate research opportunities to deepen my expertise.',
   email: 'mh.vali.ardabili@gmail.com',
-  cvUrl: '/cv.pdf',
+  cvUrl: 'public/cv.pdf',
   socials: [
     {
       label: 'GitHub',
