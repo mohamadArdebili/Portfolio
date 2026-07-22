@@ -24,7 +24,7 @@ export type Project = {
 
 export const portfolio = {
   name: 'Mohammad Hossein ValiArdabili',
-  headline: 'Computer Engineering Student | AI Researcher & Backend Developer',
+  headline: 'CE Student | AI Researcher & Backend Developer',
   intro:
     'I am a final-year Computer Engineering student and co-founder of DEMORA AI startup, with a strong focus on Computer Vision, Deep Learning, and backend development. I build reliable AI-powered systems and scalable backend architectures, and I am seeking graduate research opportunities to deepen my expertise.',
   email: 'mh.vali.ardabili@gmail.com',
