@@ -9,7 +9,8 @@ type SectionProps = {
 
 export function Section({ id, eyebrow, title, children }: SectionProps) {
   return (
-    <section id={id} className="scroll-mt-24 py-12 sm:py-15">
+    // <section id={id} className="scroll-mt-24 py-12 sm:py-15">
+    <section id={id} className="scroll-mt-24 py-12 sm:py-20">
       <div className="mx-auto max-w-6xl px-6">
         <div className="mb-10 max-w-2xl animate-fade-up">
           <div className="inline-block">

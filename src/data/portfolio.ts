@@ -45,7 +45,7 @@ export const portfolio = {
       institution: 'Islamic Azad University',
       years: '2022 – 2026',
       details:
-        'GPA: 4/4 (20/20). Ranked 2nd university in Iran (US News). Focused on applied AI, Deep Learning, and software engineering. Research on Human Pose Estimation for automated exercise assessment.',
+        'GPA: 3.7/4 (18.5/20). Ranked 2nd university in Iran (US News). Focused on applied AI, Deep Learning, and software engineering. Research on Human Pose Estimation for automated exercise assessment.',
     },
     {
       degree: 'Diploma of Mathematics',
